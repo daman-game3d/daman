@@ -1,15 +1,6 @@
 # Daman Game Login
-### Checklist
 
-* Translate Russian-flavored promo text into English.
-* Inject sarcastic, nerdy, self-aware commentary.
-* Use broken rhythm, slang, and chaotic punctuation.
-* Highlight IT-styled humor (shitty code, prompts, tweaks).
-* Keep it hype-y but grounded in “street-smart nerd” vibes.
-
----
-
-Alright, buckle up, bros—welcome to **Daman Online Games**. Yeah, the so-called “ultimate gaming destination” (I know, every site says that, but whatever). You like playing games, losing time, and maybe—just maybe—winning something? Then this place wants to be your jam. Doesn’t matter if you’re a total noob or already grinding like an esports pro—they’re promising a “safe, fair, thrilling” experience. Big words. Let’s see.
+Alright, buckle up, bros—welcome to [Daman Online Games](https://khpkvk.org/). Yeah, the so-called “ultimate gaming destination” (I know, every site says that, but whatever). You like playing games, losing time, and maybe—just maybe—winning something? Then this place wants to be your jam. Doesn’t matter if you’re a total noob or already grinding like an esports pro—they’re promising a “safe, fair, thrilling” experience. Big words. Let’s see.
 
 ✔ **Why even bother with Daman?**
 
