@@ -23,7 +23,9 @@ They love dropping words like “secure” and “rewarding”—like a corporat
 * Got friends? Exploit them with Referral Bonus.
 * Stay too long? Suddenly you’re “VIP” (fancy title, same game, just shinier rewards).
 
+
 🎰 **Games galore**
+
 ![Daman Game App](https://miro.medium.com/v2/resize:fit:720/format:webp/1*1NW4ItwRfpt4I9H-MEzygw.png)
 * Slots—old school cherries or modern neon nightmares.
 * Poker—your chance to act smart and lose faster.
